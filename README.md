@@ -56,3 +56,21 @@ pouvoir afficher le prix total des articles. Il pourra également le
 valider pour pouvoir générer une facture (par exemple, vous
 créez un document y faisant office, récapitulant ce qu’il a
 acheté, le prix de chaque article et le prix total.
+
+## Stack
+* Utilisation d'un theme bootswatch;
+* Utilisation de Fontawsome;
+* Mysql;
+* Php;
+* Adminer.
+
+
+## Usage
+*NOM DU SITE : Ubook
+*TYPE : Revente de livres d'occasions entre particuliers
+*RULES : 
+-Les livres ont un systeme de grade qui justifie de leurs etats lors de la revente
+-Pour pouvoir revendre un livre et voir les livres disponibles il faut etre inscrit
+-Un email et un mdp suffise pour l'inscription
+-Un utilisateur peux modifier un livre qu'il a mis en vente ou le supprimer
+-Si un admin supprime un utilisateur alors les livres de celui-ci seront supprimer
