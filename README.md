@@ -66,9 +66,9 @@ acheté, le prix de chaque article et le prix total.
 
 
 ## Usage
-*NOM DU SITE : Ubook
-*TYPE : Revente de livres d'occasions entre particuliers
-*RULES : 
+. NOM DU SITE : Ubook
+. TYPE : Revente de livres d'occasions entre particuliers
+. RULES : 
 -Les livres ont un systeme de grade qui justifie de leurs etats lors de la revente
 -Pour pouvoir revendre un livre et voir les livres disponibles il faut etre inscrit
 -Un email et un mdp suffise pour l'inscription
