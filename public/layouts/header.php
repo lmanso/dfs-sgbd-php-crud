@@ -32,7 +32,7 @@
                         <a class="nav-link" href="/profile">Profil</a>
                     </li>
                     <li class="nav-item">
-                    <?php if (isset($_SESSION['username']) && checkRole($id) === 1) { ?>
+                    <?php if (isset($_SESSION['username'])) { ?>
                         <a class="nav-link" href="/books">livres</a>
                         <?php } ?>
                     </li>
